@@ -1,3 +1,7 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
 .container{
     display: flex;
     justify-content: center;
@@ -17,7 +21,7 @@
 }
 
 .plan-name{
-    font-size: 20px;
+    font-size: 25px;
     font-weight: bold;
     padding-bottom: 20px;
 }
